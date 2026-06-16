@@ -29,8 +29,6 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 ## 6. Contact Us
 If you have any questions or concerns about this Privacy Policy or our practices, please contact us at:
 
-**Email:** [Insert your contact email address here]
-**Developer Name:** [Insert your developer/company name here]
+**Email:** jabirulabs@gmail.com
 
----
-*Note: To publish this policy for the Google Play Store, you can host this text on a free platform like GitHub Pages, Google Sites, or a personal website, and provide the link in the Google Play Console.*
+
